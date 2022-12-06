@@ -1,0 +1,264 @@
+#body{
+    background-color: #ffffff;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+#woodHeaderImage{
+    height:50%;
+    width:100%;
+    object-fit:cover;
+    filter:brightness(70%);
+}
+#wrLogo{
+    height:100px;
+    width:200px;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+
+.top-right{
+    position:absolute;
+    top:8px;
+    right:16px;
+    margin:10px;
+}
+ul{
+
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+li{
+    float:right;
+    padding:10px;
+    color:white;
+
+    margin:30px;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:14px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+input[type=submit]{
+    width: 300px;
+    height: 60px;
+    border:1px solid #d5b6ae;
+    border-radius: 300px;
+    background-color: #c9ada5;
+    position: center;
+    color: white;
+    font-size: 20px;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+#fullPackageTitle p h3 h1 {
+    width: 100%;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+#fullPackageTitle p{
+}
+#checkAvailability{
+    border:1px solid #d5b6ae;
+    border-radius: 300px;
+    background-color: #c9ada5;
+}
+#first{
+    width: 100%;
+    height: 100%;
+    float: right;
+}
+#second{
+    width: 100%;
+    height: 100%;
+    float: left;
+    padding-top: 50px;
+}
+#chooseeitherimg{
+    width:100%;
+    height: 70%;
+    padding-left: 100px;
+}
+#third{
+    width: 100%;
+    height: 100%;
+}
+#forth{
+    width: 100%;
+    height: 100%;
+}
+#sixth{
+    width: 100%;
+    height: 100%;
+}
+#fullPackageTitle h1{
+    color: #d5b6ae;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center;
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+#chooseEitherPackage h1{
+    color: #d5b6ae;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center;
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+#thirdpackage h1{
+    color: #d5b6ae;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center;
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+#secondpackage h1{
+    color: #d5b6ae;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center;
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+h6{
+    color: #4f4f4f;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center;
+    margin-top: 70px;
+}
+h3{
+    color: #4f4f4f;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center;
+    margin-top: 70px;
+}
+p{
+    color: #4f4f4f;
+    text-align: left;
+    margin-top: 70px;
+    padding-left: 50px;
+    font-size: 14px;
+}
+#fourPacket1 p{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+#fourPacket1 h3{
+    text-align: center;
+    margin-top: 15%;
+    color: #d5d5d5;
+
+
+}
+#fourPacket2 p{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+#fourPacket2 h3{
+    text-align: center;
+    margin-top: 15%;
+    color: #acb0b2;
+
+}
+#fourPacket3 p{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+#fourPacket3 h3{
+    text-align: center;
+    margin-top: 15%;
+    color: #acb0b2;
+
+}
+
+
+#first{
+    padding-bottom: 30%;
+}
+#second{
+    padding-bottom: 30%;
+
+}
+/*#footer {
+    background: #dbbfb9;
+    line-width: 100%;
+    color: white;
+    line-height: 25px;
+    padding: 0 20px;
+    text-align: center;
+    font-size: 10px;
+}*/
+
+/*Photos*/
+#firstImg{
+    padding-bottom: 40px;
+    float: left;
+    width: 100%;
+}
+#firstBottom{
+    padding-bottom: 40px;
+    padding-left: 20px;
+
+}
+#secondBottom{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+
+}
+#thirdBottom{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+}
+
+#firstRowColl{
+    margin-top:20px;
+    margin-bottom: 20px;
+
+}
+#secondRowColl{
+    margin-top:10px;
+    margin-bottom: 20px;
+}
+#thirdRowColl{
+    margin-bottom: 20px;
+}
+#forthRowColl{
+    margin-bottom: 20px;
+}
+#forthpic{
+    height: 68%;
+}
+
+thirdpic{
+    height: 6%;
+}
+img{
+    width:100%;
+}
+
+
+
+
+
+
